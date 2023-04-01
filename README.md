@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+#### Stats
+
+<a href="https://github.com/marichiiin">
+  <img height="137px" src="images/stars-tier.svg"/>
+  <img height="137px" src="images/languages.svg"/>
+</a>
+<img height="137px" src="images/streak.svg"/>
 <!--
 **marichiiin/marichiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
