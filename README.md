@@ -3,7 +3,11 @@
 
 
 #### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marichiiin&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marichiiin&show_icons=true&hide=stars&theme=chartreuse-dark#gh-dark-mode-only)
+
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marichiiin&show_icons=true&hide=stars&theme=default#gh-light-mode-only)
+
+
 
 <!--
 **marichiiin/marichiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
