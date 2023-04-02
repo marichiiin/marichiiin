@@ -1,4 +1,4 @@
-### Hi there 👋 I'am MJ
+### Hi there! I'am MJ 👋 
 
 #### Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marichiiin&show_icons=true&hide=stars&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
