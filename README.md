@@ -4,6 +4,10 @@
 
 "Don't Stay in Bed Unless You Can Make Money in Bed" - George Buns
 
+<li>Some of my personal projects are available at https://maryjane-magamba-portfolio.vercel.app/</li>
+<li>You can contact me at magambamj@gmail.com</li>
+
+
 ### My Favorite Tools and Technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
